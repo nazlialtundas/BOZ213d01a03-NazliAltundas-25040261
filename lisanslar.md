@@ -83,7 +83,7 @@ The Unlicense özellikle küçük projeler, örnek kodlar, basit araçlar ve gel
 | **MIT License** | Evet | Hayır | Gerekli | Oldukça basit, kısa ve esnektir; minimum kısıtlama getirir. |
 | **BSD 2-Clause** | Evet | Hayır | Gerekli | Çok esnektir; yalnızca telif ve lisans bilgilerinin korunmasını ister. |
 | **BSD 3-Clause** | Evet | Hayır | Gerekli | BSD 2 ile aynıdır; ek olarak geliştiricinin/kuruluşun adı izinsiz ticari destek için kullanılamaz. |
-| **Boost Software License 1.0** | Evet | Hayır | Belirtilmemiş | Kütüphaneler ve geliştirici araçları için hiçbir engel oluşturmayan serbest bir lisanstır. |
+| **Boost Software License 1.0** | Evet | Hayır | Kaynak kodda gerekli, ikili (binary) dağıtımda esnek | Kütüphaneler ve geliştirici araçları için hiçbir engel oluşturmayan serbest bir lisanstır. |
 | **CC0 (Creative Commons Zero)** | Evet | Hayır | Gerekli Değil | Haklardan mümkün olduğunca vazgeçilir; eseri tamamen kamu malı statüsüne yakın serbestliğe taşır. |
 | **Eclipse Public License (EPL 2.0)** | Evet | Kısmi (Dosya bazlı) | Gerekli | Açık kaynak ile ticari yazılım arasında bir denge kurmayı hedefler (GPL kadar katı değildir). |
 | **GNU LGPL v2.1** | Evet | Kütüphane için evet | Gerekli | GPL'ye göre daha esnektir; özellikle paylaşımlı kütüphaneler için uygundur. |
