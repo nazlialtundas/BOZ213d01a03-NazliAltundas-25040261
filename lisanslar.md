@@ -76,4 +76,17 @@ The Unlicense'ın en önemli özelliği, yazılım üzerindeki haklardan mümkü
 
 The Unlicense özellikle küçük projeler, örnek kodlar, basit araçlar ve geliştiricilerin çalışmalarını herhangi bir kısıtlama olmadan başkalarının kullanımına sunmak istediği durumlar için tercih edilebilir.
 
-
+| Lisans Adı | Ticari Kullanım | Değişiklikleri Açık Kaynak Yapma Zorunluluğu | Telif / Lisans Bildirimi | Öne Çıkan Özellikler ve Kurallar |
+| :--- | :---: | :---: | :---: | :--- |
+| **Apache License 2.0** | ✅ Evet | ❌ Hayır | ✅ Gerekli | Patentlerle ilgili ayrıntılı kurallar içerir; değişikliklerin belirtilmesi gerekir. |
+| **GNU GPL v3.0** | ✅ Evet | ✅ **Evet** (Güçlü Copyleft) | ✅ Gerekli | Yazılım değiştirilip dağıtıldığında tüm kaynak kodun açık kaynak olmasını zorunlu kılar. |
+| **MIT License** | ✅ Evet | ❌ Hayır | ✅ Gerekli | Oldukça basit, kısa ve esnektir; minimum kısıtlama getirir. |
+| **BSD 2-Clause** | ✅ Evet | ❌ Hayır | ✅ Gerekli | Çok esnektir; yalnızca telif ve lisans bilgilerinin korunmasını ister. |
+| **BSD 3-Clause** | ✅ Evet | ❌ Hayır | ✅ Gerekli | BSD 2 ile aynıdır; ek olarak geliştiricinin/kuruluşun adı izinsiz ticari destek için kullanılamaz. |
+| **Boost Software License 1.0** | ✅ Evet | ❌ Hayır | ⚠️ Belirtilmemiş | Kütüphaneler ve geliştirici araçları için hiçbir engel oluşturmayan serbest bir lisanstır. |
+| **CC0 (Creative Commons Zero)** | ✅ Evet | ❌ Hayır | ❌ Gerekli Değil | Haklardan mümkün olduğunca vazgeçilir; eseri tamamen kamu malı statüsüne yakın serbestliğe taşır. |
+| **Eclipse Public License (EPL 2.0)** | ✅ Evet | ⚠️ Kısmi (Dosya bazlı) | ✅ Gerekli | Açık kaynak ile ticari yazılım arasında bir denge kurmayı hedefler (GPL kadar katı değildir). |
+| **GNU LGPL v2.1** | ✅ Evet | ⚠️ Kütüphane için evet | ✅ Gerekli | GPL'ye göre daha esnektir; özellikle paylaşımlı kütüphaneler için uygundur. |
+| **GNU AGPL v3.0** | ✅ Evet | ✅ **Evet** (Ağ üzerinden kullanım dahil) | ✅ Gerekli | Web/bulut üzerinden hizmet (SaaS) olarak sunulan yazılımlarda bile kaynak kodu paylaşma zorunluluğu getirir. |
+| **Mozilla Public License (MPL 2.0)** | ✅ Evet | ⚠️ Sadece değiştirilen dosyalar için | ✅ Gerekli | MPL lisanslı *dosyada* değişiklik yapılırsa o dosya açılmalıdır, ancak projenin tamamını kapsamaz. |
+| **The Unlicense** | ✅ Evet | ❌ Hayır | ❌ Gerekli Değil | CC0 benzeridir; yazılımı her türlü kısıtlamadan arındırıp tamamen serbest bırakmayı amaçlar. |
