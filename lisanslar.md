@@ -36,7 +36,7 @@ BSD 3-Clause License ise BSD 2-Clause ile büyük ölçüde aynıdır, ancak ek 
 
 Boost Software License 1.0, yazılım geliştiricilerine oldukça geniş kullanım özgürlüğü veren bir lisanstır. Bu lisans ile bir yazılımı kullanmak, kopyalamak, geliştirmek ve başka projelere dahil etmek mümkündür. Ayrıca yazılımın ticari amaçlarla kullanılmasına da herhangi bir engel getirilmez. Bu nedenle bir geliştirici veya şirket, Boost lisanslı bir yazılımı kendi projesinin bir parçası olarak rahatlıkla kullanabilir.
 
-Bu lisans, özellikle kütüphane ve geliştirici araçları gibi başka yazılımların içerisinde kullanılacak projeler için uygun bir seçenektir. Geliştiricinin temel amacı, yazılımını farklı projelerde herhangi bir lisans engeli oluşturmadan kullanılabilir hâle getirmekse Boost Software License 1.0 tercih edilebilir.
+BSL'nin varoluş amacı ikili kod dağıtımında atıf zorunluluğunı kaldırmaktır. Özellikle C++ şablon kütüphanelerinde bu yüzden tercih edilir. Bu lisans, kütüphane ve geliştirici araçları gibi başka yazılımların içerisinde kullanılacak projeler için uygun bir seçenektir. Geliştiricinin temel amacı, yazılımını farklı projelerde herhangi bir lisans engeli oluşturmadan kullanılabilir hâle getirmekse Boost Software License 1.0 tercih edilebilir.
 
 ## Creative Commons Zero v1.0 Universal 
 
@@ -44,7 +44,7 @@ Creative Commons Zero v1.0 Universal, bir eseri mümkün olduğunca telif hakkı
 
 CC0 ile paylaşılan bir çalışma, kişiler veya şirketler tarafından izin alınmasına gerek kalmadan kullanılabilir, kopyalanabilir, değiştirilebilir ve dağıtılabilir. Ayrıca ticari amaçlarla kullanılması da mümkündür. Örneğin bir geliştirici CC0 ile paylaşılmış bir kodu kendi projesine ekleyebilir ve bu kodu değiştirebilir. Genel olarak kullanıcıdan belirli bir lisans veya telif hakkı bildirimi yapması beklenmez.
 
-Creative Commons Zero, MIT veya Apache License 2.0'dan bu yönüyle ayrılır. MIT ve Apache gibi lisanslar bazı şartların yerine getirilmesini isterken CC0, eseri mümkün olduğunca serbest bırakmayı hedefler. Ancak telif hakkından tamamen vazgeçmenin mümkün olmadığı durumlarda CC0, eserin mümkün olduğunca özgür kullanılabilmesi için ek izinler sağlar.
+Creative Commons Zero, MIT veya Apache License 2.0'dan bu yönüyle ayrılır. MIT ve Apache gibi lisanslar bazı şartların yerine getirilmesini isterken CC0, eseri mümkün olduğunca serbest bırakmayı hedefler. Ancak telif hakkından tamamen vazgeçmenin mümkün olmadığı durumlarda CC0, eserin mümkün olduğunca özgür kullanılabilmesi için ek izinler sağlar. Eğer bazı ülkelerin hukukunda telif haklarından tamamen vazgeçmek mümkün değilse, CC0'nun kamu malı feragatinin mümkün olmadığı ölçüde, kullanıcıya çok geniş ve geri alınamaz bir lisans verilir.
 
 CC0 özellikle veri setleri, görseller, araştırma çalışmaları ve herkesin serbestçe kullanmasının istendiği içerikler için uygundur. Yazılım alanında da kullanılabilir, ancak yazılım için özel olarak hazırlanmış lisansların tercih edilmesi bazı durumlarda daha uygun olabilir.
 
@@ -72,7 +72,7 @@ Mozilla Public License 2.0, özellikle açık kaynak kütüphaneler, web teknolo
 
 The Unlicense, bir yazılımın mümkün olduğunca serbest bir şekilde kullanılmasını amaçlayan bir lisanslama yöntemidir. Temel amacı, yazılımı herkesin herhangi bir izin almadan kullanabilmesini, değiştirebilmesini, kopyalayabilmesini ve paylaşabilmesini sağlamaktır. Bu nedenle yazılım ticari projelerde de kullanılabilir.
 
-The Unlicense'ın en önemli özelliği, yazılım üzerindeki haklardan mümkün olduğunca vazgeçilmesini amaçlamasıdır. Böylece kullanıcılar yazılımı kendi projelerine ekleyebilir ve yaptıkları değişiklikleri açık kaynak olarak paylaşmak zorunda kalmazlar. Yazılımın kaynak kodu farklı projelerde özgürce kullanılabilir ve yeniden dağıtılabilir. CC0 ile benzer bir amacı vardır ve yazılımı mümkün olduğunca serbest bırakmaya çalışır. Ancak telif hakkıyla ilgili kurallar ülkeden ülkeye değişebileceği için The Unlicense her yerde aynı şekilde uygulanamayabilir.
+The Unlicense'ın en önemli özelliği, yazılım üzerindeki haklardan mümkün olduğunca vazgeçilmesini amaçlamasıdır. Böylece kullanıcılar yazılımı kendi projelerine ekleyebilir ve yaptıkları değişiklikleri açık kaynak olarak paylaşmak zorunda kalmazlar. Yazılımın kaynak kodu farklı projelerde özgürce kullanılabilir ve yeniden dağıtılabilir. CC0 ile benzer bir amacı vardır ve yazılımı mümkün olduğunca serbest bırakmaya çalışır. 
 
 The Unlicense özellikle küçük projeler, örnek kodlar, basit araçlar ve geliştiricilerin çalışmalarını herhangi bir kısıtlama olmadan başkalarının kullanımına sunmak istediği durumlar için tercih edilebilir.
 
